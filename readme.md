@@ -10,3 +10,16 @@ Nine
 Ten
 Eleven
 Twelve
+Thirteen
+Fourteen
+Fifteen
+Sixteen
+Seventeen
+Eighteen
+Nineteen
+Twenty
+Twenty-one
+Twenty-two
+Twenty-three
+Twenty-four
+Twenty-five
