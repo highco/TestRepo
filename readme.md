@@ -10,7 +10,6 @@ Nine
 Ten
 Eleven
 Twelve
-yes
 Thirteen
 Fourteen
 Fifteen
