@@ -7,7 +7,6 @@ special changes
 05
 no
 06
-changed in tina
 07
 08
 09
