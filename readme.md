@@ -3,6 +3,7 @@ Two
 Three
 Four
 Five
+yes
 Six
 Seven
 Eight
@@ -19,6 +20,7 @@ Sixteen
 Seventeen
 Eighteen
 Nineteen
+yes
 Twenty
 Twenty-one
 Twenty-two
