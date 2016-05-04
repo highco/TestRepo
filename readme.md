@@ -1,30 +1,22 @@
 One
 Two
 Three
-no
 Four
 Five
-yes
 Six
 Seven
-no
 Eight
 Nine
-changes in readme
 Ten
 Eleven
-no
 Twelve
 Thirteen
 Fourteen
 Fifteen
-no
-special changes
 Sixteen
 Seventeen
 Eighteen
 Nineteen
-yes
 Twenty
 Twenty-one
 Twenty-two
