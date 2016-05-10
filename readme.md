@@ -1,6 +1,5 @@
 One
 Two
-Added in branch 1
 Three
 Four
 Five
@@ -21,7 +20,6 @@ Nineteen
 Twenty
 Twenty-one
 Twenty-two
-Added in branch 2
 Twenty-three
 Twenty-four
 Twenty-five
